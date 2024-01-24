@@ -92,3 +92,5 @@ DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress, SaleDate;
 ### 10. Conclusion
 
 This project demonstrates the power of SQL in data cleaning and preparation, transforming raw data into a structured, accurate, and interpretable format. The refined dataset is now ready for advanced analysis, providing valuable insights into Nashville housing trends.
+
+[Check the full SQL code here](https://github.com/GaurabKundu1/Nashville-Housing-Data-Refinement-A-SQL-Cleansing-Journey/blob/main/Nashvile_Housing_Data_Cleaning.sql)
